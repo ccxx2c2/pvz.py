@@ -1,2 +1,3 @@
 # pvz.py
-a python module contains some method of game "Plants Vs Zombies"
+a python module which contains some functions of game "Plants Vs Zombies"
+tieba: http://tieba.baidu.com/p/4997515699
